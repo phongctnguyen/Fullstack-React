@@ -53,3 +53,31 @@ Stop: Press "Control+C"
 
 ![jsxvshtml](https://i.ibb.co/rvGN8bp/JSXvs-HTML.png)
 ![jsxstyle](https://i.ibb.co/qjmrcbb/style-JSX.png)
+
+## II. Components
+### 1. Three tenets of components
+
+![three-tenets](https://i.ibb.co/T1H9ZRm/three-tenets.png)
+
+### 2. Creating reusable, configurable component
+
+![creating-components](https://i.ibb.co/19XfQSS/creating-components.png)
+
+### 3. Props
+- System for passinggg data from a parent component to a child component
+- Goal is to customize or configure a child component
+- Providing props from parent to child
+![providing-props](https://i.ibb.co/jHMFjpz/provide-props.png)
+
+### 4. Class Component vs Functional Component
+- How React Used to be
+  
+![how-used-to-be](https://i.ibb.co/Byjmkbm/fum-VSclass.png)
+
+- How React is now
+  
+![how-react-now](https://i.ibb.co/rt32pmZ/how-react-now.png)
+
+- How to use
+  
+![how-to-use](https://i.ibb.co/h9FXbyx/how-to-use.png)
