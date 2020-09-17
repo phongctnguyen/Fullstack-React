@@ -69,6 +69,13 @@ Stop: Press "Control+C"
 - Providing props from parent to child
 ![providing-props](https://i.ibb.co/jHMFjpz/provide-props.png)
 
+```
+Default props:
+Component.defaultProps = {
+  name: 'David'
+};
+```
+
 ### 4. Class Component vs Functional Component
 - How React Used to be
   
@@ -81,3 +88,25 @@ Stop: Press "Control+C"
 - How to use
   
 ![how-to-use](https://i.ibb.co/h9FXbyx/how-to-use.png)
+
+- Rules of Class Components
+
+![rules-class-component](https://i.ibb.co/xzpGrSG/rules-class.png)
+
+### 5. State
+- Rules of State
+
+![rules-state](https://i.ibb.co/HVmXYLy/rules-state.png)
+
+### 6. Component Lifecycle
+- Lifecyle
+
+![life-cycle](https://miro.medium.com/max/1000/1*fdGC22mqWBAQ7jOFPPAvIg.png)
+
+- Why use lifecycle method
+
+![why-lifecyle](https://i.ibb.co/KK69nqk/why-lifecycle.png)
+
+- Benefits of class component
+
+![benefit-class-comp](https://i.ibb.co/Cv2YdNt/benefit-class-comp.png)
