@@ -110,3 +110,20 @@ Component.defaultProps = {
 - Benefits of class component
 
 ![benefit-class-comp](https://i.ibb.co/Cv2YdNt/benefit-class-comp.png)
+
+### 7. Forms and Events
+- Some Events
+
+![events](https://i.ibb.co/P6J76FX/events.png)
+
+- Uncontrolled
+
+![uncontrolled](https://i.ibb.co/wppvVZR/uncontrolled.png)
+
+- Controlled
+
+![controlled](https://i.ibb.co/LtrcP9R/controlled.png)
+
+- React Ref
+
+![react-ref](https://i.ibb.co/pdFrVGd/react-ref.png)
