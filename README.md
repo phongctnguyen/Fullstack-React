@@ -192,3 +192,16 @@ const refContainer = useRef(initialValue);
 ### Bonus: Navigation from scratch
 - Navigation in React
 ![navigation](https://i.ibb.co/RCL66fY/react-navigation.png)
+
+## IV. Redux
+
+### Redux Theory
+- State management library
+- Makes creating complex applications easier
+- Not required to create a React app!
+- Not explicitly designed work with React
+
+**Redux Cycle**
+![redux-cycle](https://i.ibb.co/C12FTNQ/redux-cycle.png)
+![redux-cycle-vs-anology](https://i.ibb.co/q1Crf2s/redux-cycle-vs-anology.png)
+![redux-cycle-diagram](https://i.ibb.co/ZByn6Bj/redux-cycle-diagram.png)
