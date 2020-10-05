@@ -205,3 +205,9 @@ const refContainer = useRef(initialValue);
 ![redux-cycle](https://i.ibb.co/C12FTNQ/redux-cycle.png)
 ![redux-cycle-vs-anology](https://i.ibb.co/q1Crf2s/redux-cycle-vs-anology.png)
 ![redux-cycle-diagram](https://i.ibb.co/ZByn6Bj/redux-cycle-diagram.png)
+
+**Connect React with Redux**
+
+Example:
+![connect](https://i.ibb.co/d49r65S/connect-react-redux.png)
+![redux-not-magic](https://i.ibb.co/hVPRgzz/redux-not-magic.png)
