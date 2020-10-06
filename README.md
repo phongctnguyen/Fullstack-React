@@ -211,3 +211,19 @@ const refContainer = useRef(initialValue);
 Example:
 ![connect](https://i.ibb.co/d49r65S/connect-react-redux.png)
 ![redux-not-magic](https://i.ibb.co/hVPRgzz/redux-not-magic.png)
+
+### Redux Thunk
+**Data Loading with Redux**
+![data-loading-redux](https://i.ibb.co/stWTQ1N/data-loading-redux.png)
+
+**Redux cycle with Middleware**
+![redux-cycle-middleware](https://i.ibb.co/nfMJ5LT/redux-cycle-middleware.png)
+
+**Middleware in Redux**
+![middleware-in-redux](https://i.ibb.co/7bpPrhy/middleware-in-redux.png)
+
+**Rules with Redux Thunk**
+![rules-with-redux-thunk](https://i.ibb.co/WGPrrcs/rules-redux-thunk.png)
+
+**Redux Thunk behind the scene**
+![redux-thunk-behind-the-scene](https://i.ibb.co/VjCmgFc/redux-thunk-behind-the-scene.png)
