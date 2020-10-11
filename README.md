@@ -202,6 +202,7 @@ const refContainer = useRef(initialValue);
 - Not explicitly designed work with React
 
 **Redux Cycle**
+
 ![redux-cycle](https://i.ibb.co/C12FTNQ/redux-cycle.png)
 ![redux-cycle-vs-anology](https://i.ibb.co/q1Crf2s/redux-cycle-vs-anology.png)
 ![redux-cycle-diagram](https://i.ibb.co/ZByn6Bj/redux-cycle-diagram.png)
@@ -214,16 +215,71 @@ Example:
 
 ### Redux Thunk
 **Data Loading with Redux**
+
 ![data-loading-redux](https://i.ibb.co/stWTQ1N/data-loading-redux.png)
 
 **Redux cycle with Middleware**
+
 ![redux-cycle-middleware](https://i.ibb.co/nfMJ5LT/redux-cycle-middleware.png)
 
 **Middleware in Redux**
+
 ![middleware-in-redux](https://i.ibb.co/7bpPrhy/middleware-in-redux.png)
 
 **Rules with Redux Thunk**
+
 ![rules-with-redux-thunk](https://i.ibb.co/WGPrrcs/rules-redux-thunk.png)
 
 **Redux Thunk behind the scene**
+
 ![redux-thunk-behind-the-scene](https://i.ibb.co/VjCmgFc/redux-thunk-behind-the-scene.png)
+
+**Rules of Reducer**
+
+![rules-of-reducer](https://i.ibb.co/CHFXvy5/rules-of-reducer.png)
+
+**Update State**
+
+![update-state](https://i.ibb.co/X4wPy20/safe-state-update.png)
+
+## V. React Router
+### Introduction
+
+![react-router](https://i.ibb.co/3MvQhmF/react-router.png)
+
+**React Router Dom work**
+
+![route-example](https://i.ibb.co/KDvmQJX/route-example.png)
+
+![react-router-dom-work](https://i.ibb.co/Jcrbd7R/react-router-dom-work.png)
+
+**Router Types**
+
+![router-types](https://i.ibb.co/Q7WBgY5/router-types.png)
+
+- Traditional Server 
+
+![traditional-server-200](https://i.ibb.co/B2c8M3S/traditional-server-200.png)
+
+![traditional-server-404](https://i.ibb.co/dK3v9QC/ytaditional-server-404.png)
+
+- Create-react-app Dev Server
+
+![create-react-app-dev-server](https://i.ibb.co/WtK6QC9/create-react-app-dev-server.png)
+
+**Path Example**
+
+![path-ex-1](https://i.ibb.co/ySvBhDm/path-ex-1.png)
+
+![path-ex-2](https://i.ibb.co/yYnQ7zj/path-ex-2.png)
+
+![path-ex-3](https://i.ibb.co/rx3Ybg2/path-ex-3.png)
+
+**Navigation**
+- Bad navigation
+
+![bad-navigation](https://i.ibb.co/SfB2Y3C/bad-navigation.png)
+
+- How React Navigation (SPA)
+
+![react-navigation](https://i.ibb.co/vDLCpDf/react-navigation.png)
