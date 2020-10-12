@@ -283,3 +283,21 @@ Example:
 - How React Navigation (SPA)
 
 ![react-navigation](https://i.ibb.co/vDLCpDf/react-navigation.png)
+
+
+## VI. Authentication with React
+
+**Email/Password Authentication vs OAuth Authentication**
+
+![email/passwordvsoauth](https://i.ibb.co/dmtvZfx/emai-pass-vs-oatuh.png)
+
+**OAuth for Server and OAuth for JS Browser Apps**
+
+![OAuth-server-vs-js-browser](https://i.ibb.co/4FQ9hDX/oauth-server-vs-oauth-js-browser.png)
+
+**OAuth for JS Browser Apps**
+
+![oauth-js-browser-flow](https://i.ibb.co/1fRmjDf/oauth-js-browser-flow-1.png)
+
+![oauth-js-browser-flow-settings](https://i.ibb.co/bdTsBjK/oauth-js-browser-flow-settings.png)
+
