@@ -301,3 +301,11 @@ Example:
 
 ![oauth-js-browser-flow-settings](https://i.ibb.co/bdTsBjK/oauth-js-browser-flow-settings.png)
 
+## VII. Redux Form
+**Handling input without redux**
+
+![without-redux](https://i.ibb.co/cCWxM33/handling-input-without-redux.png)
+
+**Handling input with redux-form**
+
+![with-redux](https://i.ibb.co/0szHg4q/handling-input-with-redux-form.png)
