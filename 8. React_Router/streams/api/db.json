@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "my first stream",
+      "description": "hello",
+      "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me!",
+      "userId": "104726888708508168543",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page!!!",
+      "userId": "104726888708508168543",
+      "id": 4
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "description": "Nice Game 2020",
+      "id": 5
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "description": "GOTY 2020 - YAY",
+      "userId": "104726888708508168543",
+      "id": 6
+    }
+  ]
+}

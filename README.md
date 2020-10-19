@@ -309,3 +309,35 @@ Example:
 **Handling input with redux-form**
 
 ![with-redux](https://i.ibb.co/0szHg4q/handling-input-with-redux-form.png)
+
+## VIII. React Context
+**Props System vs Context System**
+
+![psVScs](https://i.ibb.co/ydpn0v3/context-VSprops.png)
+
+- Communicating with props
+
+![props-communicating](https://i.ibb.co/2MYvHKN/communicate-with-props.png)
+
+- Communicating with context
+
+![context-communicating](https://i.ibb.co/Pcn9VYX/communicate-with-context.png)
+
+- Context data flow
+
+![context-data-flow](https://i.ibb.co/YpSbJh1/context-data-flow.png)
+
+- Context flow
+
+![context-flow](https://i.ibb.co/cvQn7vs/context-flow.png)
+
+![context-1](https://i.ibb.co/syRcw4z/context-theory.png)
+
+![context-2](https://i.ibb.co/pQkcdYy/context-theory-1.png)
+
+
+**Redux vs Context**
+
+![reduxVScontext](https://i.ibb.co/GFkyqcg/reduxvscontext.png)
+
+![redux-context](https://i.ibb.co/qBmd22b/context-redux.png)
